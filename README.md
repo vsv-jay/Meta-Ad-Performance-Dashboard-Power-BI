@@ -3,13 +3,6 @@
 ## 🔍 Project Overview
 This Power BI dashboard analyzes advertising performance on Meta platforms (Facebook & Instagram). It helps evaluate campaign effectiveness, engagement, spend efficiency, and return on ad spend (ROAS).
 
----
-
-## 📈 Dashboard Preview
-![Dashboard Screenshot](MetaAd Facebook.png)
-
----
-
 ## 🎯 Objectives
 - Analyze ad performance across Facebook and Instagram
 - Identify high-performing campaigns and audiences
