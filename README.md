@@ -43,7 +43,7 @@ The dashboard enables stakeholders to:
 
 ![Dashboard Preview Facebook](https://github.com/vsv-jay/Meta-Ad-Performance-Dashboard-Power-BI/blob/main/MetaAd%20Facebook.png)
 
-![Dashboard Filters](meta-dashboard-2.png)
+![Dashboard Filters](https://github.com/vsv-jay/Meta-Ad-Performance-Dashboard-Power-BI/blob/main/MetaAd%20Instagram.png)
 
 
 ---
