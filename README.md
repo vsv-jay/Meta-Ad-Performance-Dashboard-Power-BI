@@ -40,13 +40,11 @@ The dashboard enables stakeholders to:
 
 ## 📷 Dashboard Preview
 
-> 🔽 **Add your screenshots right below this line**
 
-![Dashboard Preview](MetaAdFacebook.png)
+![Dashboard Preview Facebook](https://github.com/vsv-jay/Meta-Ad-Performance-Dashboard-Power-BI/blob/main/MetaAd%20Facebook.png)
 
 ![Dashboard Filters](meta-dashboard-2.png)
 
-> 💡 Tip: Drag & drop your images into the README editor — GitHub will auto-generate the link
 
 ---
 
